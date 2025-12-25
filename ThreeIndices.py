@@ -1,7 +1,7 @@
 '''
 Problem Name : Three Indices
 
-Problem No. : 1380/A
+Problem Link : https://codeforces.com/contest/1380/problem/A
 
 Description : You are given a permutation p1,p2,…,pn. Recall that sequence of n integers is called a permutation if it contains all integers from 1 to n exactly once.
 Find three indices i, j and k such that: 1≤i<j<k≤n; pi<pj and pj>pk. Or say that there are no such indices.
