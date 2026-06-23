@@ -1,11 +1,11 @@
-Codeforces Solutions
+# Codeforces Solutions
 
 This repository contains my Python solutions for programming problems and practice questions.
 
-Language Used:
+## Language Used:
 - Python
 
-Topics:
+## Topics:
 - Loops
 - Conditions
 - Functions
